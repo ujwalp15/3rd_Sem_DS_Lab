@@ -5,7 +5,6 @@ Author ujwalp15
 */
 
 #include <stdio.h>
-#include <conio.h>
 
 #define SIZE 10
 
