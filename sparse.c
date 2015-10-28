@@ -41,7 +41,7 @@ int main()
     for(i = 0; i < n; i++)
         if(E[i].value == key)
         {
-            printf("\nThe element %d is Found At Row %d And Column %d", key, E[i].row, E[i].column);
+            printf("\nThe element %d is Found At Row %d And Column %d \n", key, E[i].row, E[i].column);
             flag=1;
 	    break;
         }
