@@ -1,5 +1,5 @@
 /*
-Lab Program 3
+Lab Program 2
 Infix to Postfix
 Author ujwalp15
 */
